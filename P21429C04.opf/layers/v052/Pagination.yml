@@ -1022,72 +1022,72 @@ annotations:
     reference: ''
     span:
       start: 185660
-      end: 187015
+      end: 187016
     note_ref: 64bc0e60de334a108edbb2f2ab40c18b
   5f0d1f484bbb4bf8b1db40ccdc17c405:
     imgnum: 384
     reference: ''
     span:
-      start: 187017
-      end: 188250
+      start: 187018
+      end: 188252
     note_ref: 64bc0e60de334a108edbb2f2ab40c18b
   e705e4bb0e3a42b5aee0f7e42c7b8cd4:
     imgnum: 385
     reference: ''
     span:
-      start: 188252
-      end: 189527
+      start: 188254
+      end: 189529
     note_ref: 64bc0e60de334a108edbb2f2ab40c18b
   c82c4c18ccac45c2ba01a7ad5791d71a:
     imgnum: 386
     reference: ''
     span:
-      start: 189529
-      end: 190761
+      start: 189531
+      end: 190763
     note_ref: 64bc0e60de334a108edbb2f2ab40c18b
   57de1002ce4c4b6e8d92f7ec4163a347:
     imgnum: 387
     reference: ''
     span:
-      start: 190763
-      end: 192141
+      start: 190765
+      end: 192143
     note_ref: 64bc0e60de334a108edbb2f2ab40c18b
   9ac1dc400e9844fba85bcaffbe250eb9:
     imgnum: 388
     reference: ''
     span:
-      start: 192143
-      end: 193797
+      start: 192145
+      end: 193799
   9d601aedde1f44738e30d7119a8d25d6:
     imgnum: 389
     reference: ''
     span:
-      start: 193799
-      end: 195480
+      start: 193801
+      end: 195482
   3c32508876194a5c924a03db68144e16:
     imgnum: 390
     reference: ''
     span:
-      start: 195482
-      end: 196885
+      start: 195484
+      end: 196887
   b9463659c07a4bf5b7930fdd6bf1dc9a:
     imgnum: 391
     reference: ''
     span:
-      start: 196887
-      end: 198521
+      start: 196889
+      end: 198523
   36a9cdf278414a74803339de13813c85:
     imgnum: 392
     reference: ''
     span:
-      start: 198523
-      end: 200158
+      start: 198525
+      end: 200160
   64bc0e60de334a108edbb2f2ab40c18b:
     imgnum: 393
     reference: ''
     span:
-      start: 200160
-      end: 201606
+      start: 200162
+      end: 201608
 local_ids:
   1e42ddb8f4474bc08f6da17a3d8e7f40: 200000
   1d57ed678f794e61b5e0b4f3569c000e: 200001
